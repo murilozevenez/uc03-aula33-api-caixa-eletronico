@@ -6,11 +6,11 @@ de Programador Web do Senac Pato Branco.
 Este programa sumula as seguintes
 operações de um caixa eletrônico:
 
-- Rota de boas vindas
-- Rota de Extrato
-- Rota de Saldo
-- Rota de Depósito
-- Rota de Saque
+- [x] Rota de boas vindas
+- [ ] Rota de Extrato
+- [ ]Rota de Saldo
+- [ ] Rota de Depósito
+- [ ] Rota de Saque
 
 Não está contemplando o acesso via cartão e
 senha e nem o salvamento de informações em
